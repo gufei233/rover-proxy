@@ -1,0 +1,27 @@
+# Documentation
+docs/
+*.md
+
+# Docker files
+Dockerfile
+docker-compose.yml
+proxy-nginx-docker/
+
+# Scripts
+*.sh
+
+# Cloudflare
+cloudflare_worker.js
+wrangler.toml
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
